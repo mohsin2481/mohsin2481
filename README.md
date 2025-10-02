@@ -1,7 +1,8 @@
 <!-- README.md -->
 
 <!-- Header starts here -->
-[![Mohsin Khan Header](https://media.licdn.com/dms/image/v2/D4D16AQE6t6pAL1oA5Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738411395158?e=1753920000&v=beta&t=blwNb0BI5nc6wjr5Ioi2zYFv_8uBGo1a74kK0ZtdEb4)](https://github.com/mohsin2481)
+[![Mohsin Khan Header](https://i.ibb.co/Y76rSGW3/Screenshot-2024-09-13-165545.png)](https://github.com/mohsin2481)
+
 
 
 
